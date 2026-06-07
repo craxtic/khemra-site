@@ -8,7 +8,7 @@ seo:
 
 ::u-page-hero
 #title
-Cambo Programming Language
+Khemra Programming Language
 
 #description
 A hobby project, just for fun!
@@ -30,7 +30,7 @@ A hobby project, just for fun!
   color: neutral
   icon: simple-icons-github
   size: xl
-  to: https://github.com/craxtic/cambo-lang-official-docs
+  to: https://github.com/craxtic/Khemra-lang-official-docs
   variant: outline
   ---
   Star on GitHub

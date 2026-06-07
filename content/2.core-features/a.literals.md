@@ -1,12 +1,12 @@
 ---
 title: Literals
-description: Every literal representation in Cambo
+description: Every literal representation in Khemra
 navigation: 
   icon: i-lucide-code-xml
 ---
 
 A literal is basically a textual representation of a value of a data type written directly in the source code.
-This page shows you how different types of literals are represented in the Cambo 
+This page shows you how different types of literals are represented in the Khemra 
 programming language.  
 
 <!-- 

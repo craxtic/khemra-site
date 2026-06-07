@@ -7,7 +7,7 @@ navigation:
 
 A [system call](https://en.wikipedia.org/wiki/System_call) is the programmatic way in which a computer program requests a service from the operating system kernel on which it is executed. System call is the only one who makes actions like I/O operations, file managment, memeory allocation, and any other things possible. It's the backbone of the implementation of the entire **standard library**.
 
-Normally, invoking a system call requires writing a direct assembly code and that's complicated. However, in Cambo, there exists a keyword to do so, which is `syscall`.
+Normally, invoking a system call requires writing a direct assembly code and that's complicated. However, in Khemra, there exists a keyword to do so, which is `syscall`.
 
 ```kh [syntax]
 syscall NR (arg0, arg1, arg2, ...)
@@ -20,7 +20,7 @@ syscall NR (arg0, arg1, arg2, ...)
 `syscall` will tell the compiler to generate assembly instructions to invoke a 
 system call based on the given arguments. The generated assembly is platform and 
 achitecture dependent.
-Cambo has the philosophy of write once compile anywhere (WOCA). Inline assembly 
+Khemra has the philosophy of write once compile anywhere (WOCA). Inline assembly 
 is not portable, so it's forbidden in the language, and syscall keyword is 
 used instead. 
 

@@ -5,16 +5,16 @@ export default defineAppConfig({
     locale: 'en', // Set your single-language locale
   },
   header: {
-    title: 'Cambo',
+    title: 'Khemra',
     logo:{
       
     }
   },
 
   seo: {
-    // titleTemplate: 'Cambo',
-    title: 'Cambo documentation',
-    description: 'A complete and official documentation for Cambo programming language.',
+    // titleTemplate: 'Khemra',
+    title: 'Khemra documentation',
+    description: 'A complete and official documentation for Khemra programming language.',
     
   },
 
@@ -24,7 +24,7 @@ export default defineAppConfig({
       links: [{
         icon: 'i-lucide-circle-alert',
         label: 'Report an issue',
-        to: 'https://github.com/craxtic/cambo-lang-official-docs/issues/new',
+        to: 'https://github.com/craxtic/khemra-site/issues/new',
         target: '_blank'
       }]
     }

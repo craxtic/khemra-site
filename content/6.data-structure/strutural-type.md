@@ -6,7 +6,7 @@ navigation:
 ---
 
 ## Overview
-A structural type, in Cambo, is another special user-defined type that allows you to a type that groups a collection of data of different types in a single place, (similar to object in javascript). This structural type is just like an anonymouse struct without a name. 
+A structural type, in Khemra, is another special user-defined type that allows you to a type that groups a collection of data of different types in a single place, (similar to object in javascript). This structural type is just like an anonymouse struct without a name. 
 
 
 Normally, you need to define a struct then create an instance to store your data, but with the help of this structural type, you don't have to.

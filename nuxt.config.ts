@@ -4,7 +4,7 @@ export default defineNuxtConfig({
   extends: ['docus'],
   css: ['~/assets/css/main.css'],
   site: {
-    name: 'Cambo'
+    name: 'khemra'
   },
   content: {
     build: {

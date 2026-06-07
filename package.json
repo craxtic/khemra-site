@@ -1,13 +1,14 @@
 {
-  "name": "cambo-lang-official-docs",
+  "name": "khemra-site",
   "scripts": {
     "dev": "nuxt dev --extends docus",
     "build": "nuxt build --extends docus",
     "generate": "nuxt generate --extends docus"
   },
   "dependencies": {
+    "@comark/nuxt": "^0.3.1",
+    "better-sqlite3": "^12.10.0",
     "docus": "latest",
-    "better-sqlite3": "^12.6.2",
-    "nuxt": "^4.3.1"
+    "nuxt": "^4.4.7"
   }
 }

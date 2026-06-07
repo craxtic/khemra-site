@@ -1,6 +1,6 @@
 ---
 title: Keywords
-description: Explore all vocabularies in Cambo.
+description: Explore all vocabularies in Khemra.
 navigation:
   icon: i-lucide-code-xml
 ---

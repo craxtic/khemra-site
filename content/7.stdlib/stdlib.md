@@ -1,6 +1,6 @@
 ---
 title: stdlib
-description: Cambo's standard library.
+description: Khemra's standard library.
 navigation:
   icon: i-lucide-library-big
 ---

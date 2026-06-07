@@ -64,7 +64,7 @@ int main(string args[]){
 
 
 ## Array Properties
-In Cambo, you can manipulate the array using some built-in functions listed below:
+In Khemra, you can manipulate the array using some built-in functions listed below:
 - `size()` return the number of element of an array.
 - `last()` return the last element of an array.
 - `reverse()` reverse the element of an array. 
@@ -108,7 +108,7 @@ int main(string args[]){
 ::
 
 ## Multidimentional Array
-A Multidimentional is an array of arrays, basically it is a nested array. Due to the static typing system, a multidimentional arrays in Cambo must have one same fixed size for each of its inner arrays.
+A Multidimentional is an array of arrays, basically it is a nested array. Due to the static typing system, a multidimentional arrays in Khemra must have one same fixed size for each of its inner arrays.
 
 **Example:** In the code below, we're going to create a 2D and 3D array as they are more common than any other higher dimentional arrays.
 ```kh
